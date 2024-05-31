@@ -17,3 +17,7 @@ https://documenter.getpostman.com/view/25690510/2sA3QteWk9
 ##Output
 
 ![image](https://github.com/nur82alam/Postman-api-collection/assets/32610428/5fa826c7-d8af-45fb-a96d-37688ad50960)
+
+## Bug report google sheet link
+
+https://docs.google.com/spreadsheets/d/1iIkNd4wiMpAjMNz_KZe8u2Ep3yYgiafbwxnN7KGwWmE/edit?usp=sharing
